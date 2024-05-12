@@ -1,0 +1,1238 @@
+post-test,età,ECO basale,ECG,sintomi,pre-test,ECO stress,Kg,sex,ID
+basso,84.1,"volumi nei limiti,cinesi conservata, FE >55%",PM,no,alto,no,100,M,12165481
+alto,71.4,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,dispnea,alto,no,92,M,97404
+basso,56.3,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,74,M,12165984
+basso,58.9,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,57,F,506710
+basso,59.4,"volumi nei limiti,cinesi conservata, FE >55%",disturbo conduzione bi_fascicolare,no,medio,no,68,F,12162801
+basso,61.3,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,75,M,32916
+basso,57.0,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,80,F,18096
+basso,53.7,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,86,M,245996
+basso,64.1,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,alto,no,65,M,24563
+medio,60.4,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,110,M,557825
+basso,57.1,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,90,M,513010
+basso,88.0,"volumi nei limiti,cinesi conservata, FE 43%",fibrillazione atriale,no,medio,no,66,F,12158202
+basso,50.1,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,72,M,231809
+alto,74.0,"volumi nei limiti,cinesi conservata, FE >55%",ST sottoslivellato_orizzontale,no,alto,no,82,M,35351
+basso,56.5,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,64,F,415605
+basso,65.0,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,61,F,582874
+basso,63.5,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,medio,no,61,F,333755
+alto,59.4,"volumi nei limiti,acinesia apicale, FE >55%",non significativo,no,alto,no,80,M,560634
+basso,69.3,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,99,M,253369
+basso,57.6,"volumi nei limiti,cinesi conservata, FE >55%",BEV,no,medio,no,84,M,12207743
+basso,64.1,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,alto,no,70,M,323695
+basso,54.5,"",anomalie RV,no,medio,no,77,M,12104990
+basso,59.7,"volumi nei limiti,cinesi conservata, FE >55%",BEV,dispnea,medio,no,78,M,78435
+basso,42.3,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,75,F,172193
+basso,77.8,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,100,M,537669
+basso,44.9,"volumi nei limiti,ipocinesia setto, FE >55%",non significativo,no,medio,no,48,M,536676
+basso,61.5,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,110,M,12224979
+basso,72.4,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,90,M,487716
+alto,57.9,"volumi nei limiti,ipocinesia inferiore FE >55%",non significativo,no,alto,no,87,M,11998949
+basso,83.0,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,70,F,12102272
+alto,80.6,"volumi nei limiti,cinesi conservata, FE >55%",fibrillazione atriale,calo pressorio,alto,no,110,M,245810
+basso,46.4,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,54,F,383911
+basso,75.6,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,94,M,138195
+basso,58.5,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,76,M,12208372
+alto,64.4,"volumi nei limiti, acinesia anterolaterale, apicale FE 50%",anomalie RV,no,alto,no,70,M,62312
+basso,65.5,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,oppressione retrosternale,medio,no,73,M,205796
+basso,67.2,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,medio,no,58,F,105486
+basso,26.3,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,90,M,251840
+basso,47.6,"",anomalie RV,no,medio,no,54,M,254324
+basso,81.2,"volumi nei limiti,cinesi conservata, FE >55%",flutter atriale,no,alto,no,86,M,226942
+alto,71.7,"volumi nei limiti,acinesia inferiore , FE >55%",non significativo,no,alto,no,77,M,332876
+basso,60.6,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,alto,no,60,F,557652
+basso,74.2,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,alto,no,62,F,12218341
+basso,68.8,"volumi nei limiti,cinesi conservata, FE >55%",T negativa,oppressione retrosternale,medio,no,77,M,12235461
+basso,72.9,"volumi nei limiti,ipocinesia anterosettale, FE >55%",non significativo,no,medio,no,80,F,80568
+medio,76.0,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,72,M,229309
+basso,46.4,"volumi nei limiti,ipocinesia inferiore, FE >55%",non significativo,no,alto,no,81,M,12182429
+basso,24.0,"",anomalie RV,no,medio,no,67,M,12202304
+basso,74.8,"volumi nei limiti,acinesia inferiore, FE >55%",BBsx,no,medio,no,70,F,250597
+alto,66.3,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,72,M,78151
+basso,55.8,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,alto,no,61,M,496225
+basso,79.8,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,62,F,573541
+basso,49.9,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,81,M,12230916
+basso,51.3,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,95,F,249422
+basso,70.8,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,alto,no,71,M,215366
+basso,71.9,"volumi nei limiti,cinesi conservata, FE >55%",flutter atriale,no,medio,no,94,M,86316
+basso,64.8,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,93,M,435893
+basso,54.9,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,85,F,22143
+basso,67.0,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,54,M,12215075
+medio,80.0,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,dispnea,alto,no,73,M,258944
+basso,59.0,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,78,M,184930
+basso,80.5,"volumi nei limiti,cinesi conservata, FE >55%",BESV + BEV,oppressione retrosternale,medio,no,70,F,22646
+basso,71.3,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,78,F,259330
+basso,73.1,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,76,F,50075
+basso,74.4,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,medio,no,64,F,471537
+basso,82.9,"volumi nei limiti,cinesi conservata, FE >55%",PM,no,medio,no,76,M,533814
+basso,62.0,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,103,M,250896
+medio,56.0,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,alto,no,66,M,448092
+basso,70.3,"volumi nei limiti,cinesi conservata, FE >55%",fibrillazione atriale,no,alto,no,92,M,191294
+alto,72.5,"volumi nei limiti,cinesi conservata, FE >55%",fibrillazione atriale,no,medio,no,72,M,12245599
+basso,76.1,"volumi nei limiti,cinesi conservata, FE 50%",fibrillazione atriale,no,alto,no,103,M,11996391
+basso,78.7,"",non significativo,no,medio,no,70,F,535910
+basso,71.9,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,90,F,11986572
+medio,66.0,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,alto,no,53,M,798627
+basso,83.7,"volumi nei limiti,dissincronia inferiore, FE 50%",non significativo,no,medio,no,76,M,150049
+basso,76.4,"",non significativo,no,medio,no,61,F,12235680
+basso,58.2,"",ST sottoslivellato_ascendente,no,medio,no,54,F,10322048
+basso,81.5,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,53,M,452172
+medio,77.0,"volumi nei limiti,cinesi conservata, FE >55%",PM,no,alto,no,74,M,12249601
+basso,59.9,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,78,M,12001400
+basso,66.4,"volumi nei limiti,ipocinesia inferolaterale, FE >55%",non significativo,no,medio,no,61,M,507519
+basso,67.5,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,75,F,560065
+basso,74.8,"volumi nei limiti,ipocinesia anteriore, FE >55%",ST sottoslivellato_orizzontale,no,alto,no,61,M,12224953
+basso,61.3,"",non significativo,no,medio,no,73,M,12197275
+basso,69.0,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,73,M,369362
+basso,61.3,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,52,F,12161259
+basso,83.0,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,75,F,174657
+alto,80.8,"",BBsx,no,medio,no,115,M,619245
+basso,62.7,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,dispnea,medio,no,85,M,253246
+basso,84.0,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,70,F,427673
+basso,67.2,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,medio,no,73,M,12253909
+basso,57.7,"volumi nei limiti,acinesia inferiore, FE >55%",non significativo,no,alto,no,88,M,531482
+basso,64.8,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,57,F,12214237
+basso,34.0,"",anomalie RV,no,medio,no,90,M,491073
+basso,73.9,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,70,F,107100
+alto,65.9,CMD ipocinetica FE 40%,BBsx,no,medio,no,51,F,213136
+basso,64.4,"volumi nei limiti,cinesi conservata, FE >55%",disturbo conduzione bi_fascicolare,no,medio,no,90,M,64009
+basso,73.1,"",anomalie RV,no,medio,no,51,F,342485
+basso,57.8,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,79,M,252040
+alto,72.4,CMD - acinesia inferolaterale FE 45%,non significativo,no,alto,no,90,M,120984
+basso,64.5,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,85,M,44823
+basso,67.2,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,80,M,12148709
+basso,54.3,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,104,M,583676
+basso,71.5,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,dispnea,alto,no,67,M,296452
+basso,67.5,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,75,M,199766
+basso,68.8,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,61,F,196892
+basso,67.8,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,49,F,223259
+basso,51.1,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,61,F,12204135
+basso,74.0,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,alto,no,56,F,520839
+basso,79.9,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,69,F,169504
+basso,63.9,"volumi nei limiti,acinesia inferolaterale, FE >55%",non significativo,no,alto,no,80,M,12204461
+basso,80.5,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,74,M,191019
+basso,57.6,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,dispnea,medio,no,100,F,394859
+basso,57.8,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,90,M,131159
+basso,58.2,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,67,M,12208298
+basso,66.9,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,65,F,12206604
+basso,63.2,"",non significativo,no,medio,no,79,M,406476
+basso,74.8,"volumi nei limiti,cinesi conservata, FE 50%",BBsx,no,medio,no,74,M,12256980
+basso,73.7,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,59,F,18527
+basso,84.6,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,61,M,12246859
+basso,66.4,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,medio,no,87,F,294300
+basso,48.5,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,medio,no,68,F,351281
+basso,54.1,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,dispnea,medio,no,81,M,391399
+basso,63.9,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,68,M,12209314
+basso,67.4,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,90,F,12214330
+basso,76.5,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,alto,no,70,M,219403
+basso,55.0,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,90,M,134201
+basso,52.0,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,70,F,558267
+basso,68.8,"volumi nei limiti,cinesi conservata, FE >55%",ST sottoslivellato_orizzontale,no,alto,no,80,M,12210366
+basso,68.8,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,medio,no,110,M,12210165
+basso,76.1,"",non significativo,no,medio,no,65,M,455790
+basso,83.3,"volumi nei limiti,cinesi conservata, FE >55%",fibrillazione atriale,no,medio,no,55,F,558473
+basso,65.8,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,dispnea,medio,no,72,F,12266128
+basso,68.8,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,56,F,532224
+basso,56.3,"volumi nei limiti,cinesi conservata, FE >55%",BEV,no,medio,no,69,F,12271218
+basso,83.0,"volumi nei limiti,ipocinesia anterolaterale, FE >55%",non significativo,no,alto,no,90,M,12128275
+basso,66.8,"volumi nei limiti, ipocinesia inferolaterale, FE >55%",non significativo,dispnea,alto,no,56,F,206397
+basso,51.2,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,78,M,486854
+basso,61.5,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,83,M,12128219
+alto,61.9,"volumi nei limiti,cinesi conservata, FE >55%",BEV,no,medio,no,74,M,12272943
+basso,81.3,"volumi nei limiti,cinesi conservata, FE >55%",BBdx,no,alto,no,90,M,414839
+basso,57.5,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,95,F,330179
+basso,74.7,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,55,F,126637
+basso,57.4,"",BBsx,no,basso,no,89,M,570714
+basso,64.5,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,93,M,413959
+basso,59.8,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,alto,no,57,F,12278637
+basso,52.1,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,alto,no,80,M,184869
+basso,66.4,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,54,F,11384933
+basso,65.9,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,alto,no,81,M,456561
+basso,62.9,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,alto,no,56,F,144861
+alto,75.9,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,56,F,233512
+basso,45.3,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,79,M,12280365
+basso,65.7,"volumi nei limiti,cinesi conservata, FE 45-48%",non significativo,no,alto,no,150,M,12280365
+medio,75.5,"volumi nei limiti,ipocinesia inferiore , FE 45-48%",PM,dispnea,medio,no,83,M,87978
+basso,52.9,"volumi nei limiti,acinesia apicale, FE >55%",ST sottoslivellato_ascendente,no,alto,ECO Bike Stress Test: positiva per ischemia,75,M,505069
+basso,72.0,"volumi nei limiti,cinesi conservata, FE >55%",BBdx,oppressione retrosternale,alto,no,70,F,324001
+basso,54.1,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,74,F,12233871
+basso,78.4,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,90,M,257960
+basso,52.9,"volumi nei limiti,cinesi conservata, FE >55%",BBdx,no,alto,no,80,M,420862
+basso,69.0,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,56,F,13515
+basso,53.3,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,75,M,12225792
+basso,51.4,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,oppressione retrosternale,medio,no,85,F,12283130
+basso,63.6,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,93,M,162932
+alto,62.6,"CMD, acinesia anterosettale + apex, FE 40-45%",T pseudonormalizzazione,no,alto,no,70,M,96013
+medio,60.9,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,alto,no,83,M,186083
+basso,75.9,"volumi nei limiti,cinesi conservata, FE >55%",BESV,no,medio,no,90,M,85698
+basso,61.1,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,104,M,462297
+basso,42.9,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,72,F,319513
+alto,58.4,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,alto,no,105,M,315378
+basso,65.0,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,92,M,151163
+basso,80.4,"volumi nei limiti,cinesi conservata, FE >55%",BEV,no,alto,no,55,M,587364
+basso,62.8,"volumi nei limiti,cinesi conservata, FE >55%",BBdx,no,alto,no,95,M,29833
+basso,77.7,"volumi nei limiti,cinesi conservata, FE >55%",PM,no,alto,no,75,M,9371
+basso,83.1,"",non significativo,no,medio,no,63,F,286226
+basso,74.4,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,claudicatio,alto,no,70,M,358441
+basso,76.6,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,68,F,24845
+basso,76.4,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,65,M,570447
+basso,46.4,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,dispnea,medio,no,75,F,168626
+basso,51.5,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,81,M,168854
+basso,81.4,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,71,M,12233422
+basso,65.3,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,62,F,12228476
+basso,79.7,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,58,F,11847477
+basso,50.5,"volumi aumentati,cinesi conservata, FE 50%",non significativo,no,medio,no,121,M,12292552
+medio,68.3,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,82,M,16414
+basso,62.2,"volumi nei limiti,cinesi conservata, FE >55%",EAsx,no,medio,no,56,F,194776
+alto,80.0,"volumi nei limiti,acinesia apicale, FE 50%",disturbo conduzione bi_fascicolare,no,alto,no,71,M,463967
+alto,67.3,"volumi nei limiti,acinedia inferiore, FE >55%",EAsx,no,alto,no,52,M,592410
+medio,68.4,"volumi nei limiti,acinesia inferiore, FE50%",non significativo,no,alto,ECO Bike Stress Test: positiva per ischemia,78,M,11692726
+basso,71.6,"volumi nei limiti,cinesi conservata, FE >55%",ST sottoslivellato_ascendente,costrizione giugulare,medio,no,58,F,10210847
+alto,57.7,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,oppressione retrosternale,alto,no,79,M,11555230
+basso,78.7,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,costrizione giugulare,medio,no,65,F,111623
+alto,65.2,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,101,M,32458
+medio,66.6,"volumi nei limiti,ipocinesia anterolaterale, FE 45-50%",disturbo conduzione bi_fascicolare,no,medio,no,81,M,440198
+basso,64.1,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,57,F,68828
+basso,55.1,"",anomalie RV,no,medio,no,52,F,12238924
+basso,64.0,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,99,M,401547
+basso,49.6,"volumi nei limiti,cinesi conservata, FE >55%",BEV,no,medio,no,84,M,335671
+alto,68.7,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,95,M,561022
+basso,52.5,"volumi nei limiti,cinesi conservata, FE >55%",T pseudonormalizzazione,no,medio,no,84,M,306071
+basso,77.3,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,alto,no,67,M,374347
+basso,63.1,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,75,F,447293
+medio,74.0,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,75,M,12280298
+basso,65.8,"",anomalie RV,no,alto,no,59,M,12293804
+medio,59.5,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,alto,no,66,M,210057
+basso,66.8,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,80,M,539198
+basso,66.0,"volumi nei limiti,cinesi conservata, FE >55%",ST sottoslivellato_orizzontale,no,medio,no,74,M,12272131
+basso,69.4,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,oppressione retrosternale,alto,no,85,F,85272
+alto,65.2,"volumi nei limiti,ipocinesia inferiore, FE >55%",ST sottoslivellato_orizzontale,no,alto,no,82,M,247844
+medio,73.6,"volumi nei limiti,cinesi conservata, FE >55%",ST sottoslivellato_orizzontale,no,alto,no,80,M,1095
+alto,74.1,"volumi nei limiti,cinesi conservata, FE >55%",ST sottoslivellato_orizzontale,no,alto,no,60,M,272014
+medio,65.4,"volumi nei limiti, acinesia apicale, FE >55%",non significativo,costrizione retrosternale,alto,no,65,F,479537
+basso,78.6,"volumi nei limiti,cinesi conservata, FE >55%",fibrillazione atriale,no,medio,no,75,F,165077
+basso,66.3,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,dispnea,alto,no,82,M,12085366
+basso,54.5,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,95,M,148537
+basso,66.0,"volumi nei limiti,cinesi conservata, FE >55%",BEV,no,medio,no,100,M,12250511
+medio,72.2,"volumi nei limiti,cinesi conservata, FE >55%",ST sottoslivellato_ascendente,angina,alto,ECO Bike Stress Test: positiva per ischemia,94,F,441672
+basso,44.9,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,67,F,159353
+basso,54.5,"volumi nei limiti,cinesi conservata, PFO FE >55%",anomalie RV,no,medio,no,62,F,567881
+basso,54.7,"",ST sottoslivellato_orizzontale,no,medio,no,85,M,579105
+basso,84.1,"volumi nei limiti,cinesi conservata, FE >55%",PM,no,alto,no,64,M,552112
+basso,73.0,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,alto,no,45,F,537393
+basso,54.2,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,78,F,288849
+basso,75.2,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,74,F,380372
+basso,72.9,"volumi nei limiti,cinesi conservata, FE >55%",BESV + BEV,no,medio,no,80,M,12181031
+basso,53.6,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,medio,no,73,M,120171
+basso,49.5,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,103,M,132272
+basso,79.2,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,64,F,12307126
+basso,60.4,"volumi nei limiti,ipocinesia inferiore, FE >55%",non significativo,no,medio,no,77,F,11955091
+basso,66.0,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,80,F,566760
+basso,51.2,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,162,M,163555
+basso,83.0,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,65,F,622140
+basso,78.2,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,81,M,115477
+basso,53.0,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,ECO Adenosina: positiva per ischemia,100,M,347572
+basso,56.0,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,costrizione giugulare,medio,no,60,M,12269476
+basso,59.8,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,90,M,77027
+basso,77.0,"volumi nei limiti,cinesi conservata, FE >55%",fibrillazione atriale,no,medio,no,82,F,12156813
+basso,74.8,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,66,F,117842
+basso,83.1,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,alto,no,68,F,12313277
+basso,57.8,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,58,F,374841
+basso,78.9,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,alto,no,54,F,538982
+basso,50.5,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,medio,no,67,M,12300846
+basso,75.9,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,56,F,12266331
+basso,80.0,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,alto,no,95,M,10542405
+alto,68.0,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,72,M,251600
+basso,67.1,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,ECO Dobutamina: negativa per ischemia,62,M,12319659
+basso,71.2,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,65,F,49391
+basso,79.2,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,70,M,10914627
+basso,82.1,"",non significativo,no,medio,no,60,F,10253561
+basso,73.9,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,58,F,42753
+basso,64.2,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,65,M,456379
+basso,85.1,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,medio,no,88,F,10317817
+basso,73.3,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,alto,no,67,M,50906
+alto,64.4,"volumi nei limiti, acinesia inferiore, FE >55%",non significativo,no,alto,no,91,M,8765
+medio,54.8,"volumi nei limiti,cinesi conservata, FE >55%",BEV,no,alto,no,117,M,360526
+basso,70.3,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,alto,no,76,M,84372
+basso,84.9,"volumi nei limiti,cinesi conservata, FE >55%",PM,no,alto,no,55,F,292687
+alto,70.2,"CMD, dissinergia setto  FE38%",BBsx,no,alto,no,115,M,12258428
+basso,75.2,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,45,F,11114471
+basso,79.2,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,medio,no,70,M,12333985
+basso,75.3,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,dispnea,medio,no,56,F,222956
+basso,87.9,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,alto,no,66,M,622600
+basso,72.4,"volumi nei limiti,cinesi conservata, FE >55%",BBdx,no,medio,no,68,F,125883
+basso,41.1,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,130,M,12279655
+basso,54.3,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,76,M,12103749
+basso,57.7,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,dispnea,alto,no,68,F,10895127
+basso,86.2,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,67,F,204800
+basso,51.7,"volumi nei limiti,cinesi conservata, FE >55%",ST sottoslivellato_orizzontale,no,medio,no,67,M,600698
+basso,73.7,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,73,M,277480
+basso,54.8,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,93,M,12273466
+alto,63.9,"volumi nei limiti, acinesia inferiore, FE >55%",BBsx,no,alto,no,74,M,425948
+basso,56.7,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,63,F,12283373
+basso,61.8,"volumi nei limiti,cinesi conservata, FE >55%",ST sottoslivellato_orizzontale,no,medio,no,70,F,12329053
+basso,75.9,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,89,M,557409
+basso,57.8,"volumi nei limiti,cinesi conservata, FE >55%",ST sottoslivellato_orizzontale,no,medio,no,61,M,12310785
+medio,80.3,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,dispnea,alto,no,93,M,497593
+basso,69.1,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,83,M,303324
+basso,62.1,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,75,M,347654
+basso,66.4,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,72,M,12324085
+basso,48.1,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,78,M,12339372
+basso,72.8,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,costrizione giugulare,medio,no,50,F,179361
+basso,70.2,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,medio,no,60,F,12330512
+basso,74.4,"",BBsx,no,medio,no,68,F,12187737
+basso,56.4,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,87,M,81994
+basso,59.1,"volumi nei limiti,acinesia setto-basale, FE >55%",non significativo,dispnea,medio,no,54,M,12339664
+basso,47.1,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,67,M,12322778
+basso,68.4,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,dispnea,medio,no,58,F,11597579
+basso,50.3,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,oppressione epigastrica,medio,no,80,M,211359
+basso,56.2,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,107,F,172213
+basso,55.6,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,basso,no,75,F,12001717
+alto,75.3,"CMD ipocinetica, FE 30%",fibrillazione atriale,no,medio,no,60,F,12313401
+basso,81.9,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,70,F,185646
+basso,72.8,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,63,F,12314206
+basso,62.0,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,60,F,10713636
+basso,63.6,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,80,F,10439303
+basso,54.6,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,alto,no,68,M,432691
+medio,71.4,"CMD, cinesi conservata, FE 50%",fibrillazione atriale,no,alto,no,110,M,11919075
+basso,53.3,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,69,F,350498
+basso,46.0,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,precordialgie,basso,no,87,M,11615081
+basso,57.1,"volumi nei limiti,ipocinesia inferiore, FE >55%",non significativo,no,medio,no,96,M,12319293
+basso,76.6,"volumi nei limiti,cinesi conservata, FE >55%",fibrillazione atriale,no,medio,no,78,M,519445
+basso,61.9,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,basso,no,91,M,12346187
+basso,74.5,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,dispnea,medio,no,73,F,12070325
+basso,86.1,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,75,M,334313
+basso,63.1,"volumi nei limiti,acinesia inferiore, FE 42%",non significativo,no,alto,no,75,M,217597
+basso,72.5,"volumi nei limiti,ipocinesia Basale_Inferiore, FE50%",BBsx,no,medio,no,66,M,12316562
+basso,52.2,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,71,M,470752
+basso,54.5,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,62,F,7556
+basso,81.1,"volumi nei limiti,cinesi conservata, FE >55%",PM,no,medio,no,71,M,132596
+basso,75.0,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,medio,no,85,F,609236
+basso,71.2,"volumi nei limiti,ipocinesia inferiore, FE >55%",non significativo,no,alto,no,93,M,505801
+basso,48.8,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,100,M,471471
+basso,65.2,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,costrizione retrosternale,alto,no,70,M,429734
+basso,63.2,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,96,M,293722
+basso,57.3,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,basso,no,70,M,503720
+basso,61.2,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,alto,no,70,F,313368
+basso,66.6,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,79,F,371353
+basso,63.1,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,medio,no,65,F,4361
+basso,45.5,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,50,F,309446
+basso,79.7,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,45,F,12147421
+basso,73.9,"volumi nei limiti,cinesi conservata, FE >55%",PM,no,alto,no,70,M,453941
+basso,71.6,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,60,F,145978
+basso,61.4,"volumi nei limiti,acinesia inferiore, FE 55%",non significativo,no,alto,no,90,M,336147
+medio,60.0,"volumi nei limiti,acinesia inferiore, FE >55%",non significativo,no,alto,no,85,M,236290
+alto,60.4,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,75,M,146580
+basso,67.1,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,dispnea,medio,no,58,F,44200
+basso,75.6,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,76,M,10377776.
+basso,74.2,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,80,F,12278373
+medio,72.0,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,98,M,97404
+basso,81.6,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,basso,no,72,M,12285835
+alto,77.1,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,82,M,4401
+basso,69.6,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,77,M,175777
+basso,50.8,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,76,F,298545
+basso,73.4,"volumi nei limiti, ipocinesia inferolaterale FE >55%",BBsx,no,medio,no,85,M,3437
+basso,83.2,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,65,M,282889
+alto,70.3,"CMD ipocinetica, FE 35-40%",non significativo,no,alto,no,82,M,322166
+basso,69.8,"volumi nei limiti,cinesi conservata, FE >55%",ST sottoslivellato_ascendente,no,alto,no,53,F,284860
+basso,54.7,"volumi nei limiti,cinesi conservata, FE >55%",fibrillazione atriale,no,alto,no,60,F,498415
+basso,74.1,"volumi nei limiti,ipocinesia diffusa, FE 41%",non significativo,no,medio,no,83,M,10758082
+basso,51.2,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,58,F,11071864
+alto,73.7,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,85,F,157355
+basso,57.7,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,70,M,12294683
+medio,76.5,"volumi nei limiti,acinesia inferiore, FE >55%",non significativo,no,alto,no,59,M,192731
+basso,68.9,"volumi nei limiti,ipocinesia setto, FE >55%",BBsx,no,alto,no,104,M,373220
+basso,76.8,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,89,M,12237105
+basso,74.1,"volumi nei limiti,cinesi conservata, FE >55%",TPSV,no,medio,no,75,M,12365353
+basso,79.4,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,dispnea,alto,no,45,F,358318
+basso,46.1,"",BBdx,no,medio,no,85,M,11253723
+basso,72.5,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,74,F,12364372
+basso,71.7,"volumi nei limiti,ipocinesia Basale_Anteriore, FE >55%",non significativo,no,medio,no,87,M,117843
+basso,72.2,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,57,F,12075778
+basso,67.5,"",non significativo,no,medio,no,78,F,12184295
+basso,69.9,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,ECO Dobutamina: negativa per ischemia,57,M,251
+basso,83.6,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,71,F,264847
+basso,79.9,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,60,M,251589
+basso,85.3,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,65,F,35137
+basso,78.4,"volumi nei limiti,cinesi conservata, FE >55%",fibrillazione atriale,no,alto,no,90,M,22787
+alto,57.5,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,ECO Dipiridamolo: negativa per ischemia,83,M,12016030
+basso,71.7,"volumi nei limiti,acinesia inferosettale, FE >55%",anomalie RV,no,alto,no,91,M,12302119
+basso,56.1,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,97,M,12303013
+basso,72.4,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,105,M,506936
+alto,62.8,"volumi nei limiti,cinesi conservata, FE 45%",non significativo,dispnea,alto,no,84,M,493970
+basso,72.9,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,75,F,299550
+basso,53.3,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,111,M,12322823
+basso,81.1,"",BBsx,no,medio,no,55,F,452868
+basso,57.9,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,82,M,34863
+alto,68.8,"volumi aumentati,cinesi conservata, FE 45%",non significativo,no,alto,no,86,M,96598
+basso,47.2,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,54,F,10837330
+basso,68.9,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,52,F,61665
+basso,53.9,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,77,M,12349415
+basso,62.2,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,oppressione retrosternale,medio,no,62,F,12371147
+alto,72.7,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,75,F,289765
+basso,78.9,"",anomalie RV,oppressione retrosternale,medio,no,61,F,28495
+basso,78.8,"volumi nei limiti,cinesi conservata, FE 50%",BBsx,no,medio,no,70,F,614939
+basso,76.9,"volumi nei limiti,disicnesia SIV, FE >55%",BBsx,precordialgie,medio,no,80,M,482217
+basso,74.1,"volumi nei limiti,cinesi conservata, FE 50%",non significativo,dispnea,medio,no,63,M,11933956
+basso,69.7,"",non significativo,no,alto,no,84,M,224378
+basso,60.4,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,92,M,12129921
+basso,85.1,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,oppressione retrosternale,alto,no,57,F,12377012
+basso,72.7,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,65,M,10179348
+basso,74.7,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,75,F,283578
+basso,76.7,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,70,M,74668
+basso,70.8,"",non significativo,no,alto,no,57,M,173479
+basso,69.9,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,64,F,278086
+basso,63.7,"",anomalie RV,no,medio,no,45,F,183512
+alto,73.4,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,80,M,464576
+basso,74.4,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,80,M,198261
+basso,73.3,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,107,M,10814618
+basso,61.2,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,87,M,572934
+basso,77.2,"",PM,no,medio,no,85,M,12380094
+basso,59.5,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,58,F,565176
+basso,74.8,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,90,M,284448
+basso,54.5,"volumi nei limiti,ipocinesia apicale, FE >55%",non significativo,no,alto,no,80,M,51285
+basso,62.7,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,costrizione giugulare,medio,no,62,F,58298
+basso,52.0,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,dispnea,medio,no,85,M,361944
+alto,79.8,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,calo pressorio,alto,no,82,M,365069
+basso,57.7,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,100,M,12332900
+basso,77.2,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,56,F,167664
+basso,77.0,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,60,F,17525
+basso,68.0,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,74,M,12388194
+basso,73.0,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,57,M,11621714
+basso,75.2,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,costrizione retrosternale,medio,no,62,F,1894
+basso,83.0,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,62,M,555042
+basso,59.7,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,76,M,12388481
+basso,80.2,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,medio,no,70,M,12390203
+basso,58.3,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,66,F,12097901
+basso,69.6,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,88,M,500082
+basso,70.2,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,65,F,165842
+basso,61.2,"",non significativo,no,medio,no,60,F,47236
+basso,47.9,"",non significativo,no,medio,no,61,F,12367452
+basso,62.1,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,84,M,456614
+basso,58.8,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,alto,no,85,M,120314
+basso,84.5,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,dispnea,alto,no,59,F,2133
+basso,47.4,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,64,M,12392209
+basso,54.9,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,74,M,108835
+basso,62.9,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,50,F,12344524
+basso,61.0,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,77,M,12346654
+medio,73.2,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,alto,no,72,M,6653
+basso,66.3,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,56,M,12392909
+alto,70.6,"CMD,cinesi conservata, FE 48%",BBsx,no,medio,no,96,M,12393044
+basso,52.1,"",BBsx,no,medio,no,60,F,12339871
+basso,75.8,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,70,M,136090
+basso,78.8,"volumi nei limiti,cinesi conservata, FE >55%",fibrillazione atriale,no,medio,no,90,M,611901
+basso,65.2,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,medio,no,49,F,177087
+basso,62.3,"volumi nei limiti,cinesi conservata, FE >55%",BBdx,no,medio,no,73,M,327214
+basso,77.1,"volumi nei limiti,cinesi conservata, FE >55%",ST sottoslivellato_orizzontale,no,alto,no,89,M,51910
+basso,76.8,"CMD, FE ??%",non significativo,no,alto,no,82,M,519281
+basso,50.7,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,71,M,12118592
+basso,77.3,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,64,F,170880
+basso,79.7,"volumi nei limiti,cinesi conservata, FE >55%",PM,no,alto,no,99,M,106390
+alto,69.7,CMD ipocinetica FE 30%,BBsx,no,alto,no,125,M,134832
+basso,75.7,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,77,F,12273650
+basso,75.8,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,alto,no,70,M,89470
+basso,64.6,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,medio,no,71,F,218925
+basso,65.7,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,medio,no,97,M,12344177
+basso,78.3,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,dispnea,medio,no,78,F,100746
+basso,59.4,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,75,M,159414
+basso,71.1,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,medio,no,67,F,11137477
+medio,52.7,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,111,M,39020
+basso,47.0,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,toracoalgie,medio,no,106,M,12399727
+basso,89.8,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,54,M,433227
+basso,74.3,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,66,M,12400392
+basso,77.2,"volumi nei limiti,ipocinesia SIV distale, FE >55%",non significativo,no,medio,no,74,M,324871
+basso,50.8,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,88,M,12279912
+basso,74.5,"volumi nei limiti,cinesi conservata, FE >55%",BEV,no,alto,no,80,M,536099
+basso,63.9,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,alto,no,83,M,12343126
+basso,61.5,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,75,M,398471
+basso,73.9,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,68,F,12402222
+alto,59.3,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,68,M,466101
+basso,84.9,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,80,F,39508
+basso,65.3,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,80,M,516709
+basso,85.6,"volumi nei limiti,cinesi conservata, FE >55%",BEV,no,medio,no,60,M,444101
+alto,44.0,"volumi nei limiti,ipocinesia inferiore, FE >55%",anomalie RV,no,alto,no,75,M,403082
+basso,65.6,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,73,M,541159
+basso,76.6,"volumi nei limiti,ipocinesia inferiore, FE >55%",non significativo,no,alto,ECO Dipiridamolo: negativa per ischemia,82,M,467833
+alto,72.7,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,84,M,42502
+basso,62.0,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,52,F,524767
+basso,72.3,"volumi nei limiti,cinesi conservata, FE >55%",BEV,no,medio,no,55,F,11973967
+basso,77.6,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,alto,no,67,M,11973197
+basso,72.3,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,70,F,280921
+medio,73.5,"volumi nei limiti,cinesi conservata, FE >55%",disturbo conduzione bi_fascicolare,no,medio,no,80,M,11973891
+basso,78.6,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,medio,no,49,F,348286
+basso,68.3,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,50,F,338039
+basso,62.4,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,precordialgie,medio,no,71,F,98058
+basso,79.3,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,72,M,191019
+basso,58.8,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,basso,no,50,F,15120
+basso,64.7,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,93,M,11972495
+basso,67.7,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,67,F,64370
+basso,75.8,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,precordialgie,alto,no,54,F,48470
+basso,48.3,"volumi nei limiti,cinesi conservata, FE >55%",ST sottoslivellato_orizzontale,no,alto,no,70,F,11958139
+basso,78.5,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,84,M,18154
+basso,73.7,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,cefalea,alto,no,62,F,24557
+basso,60.7,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,57,F,536992
+basso,63.3,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,costrizione giugulare,medio,no,75,F,63749
+basso,71.6,"volumi nei limiti,cinesi conservata, FE >55%",BESV,no,alto,no,65,F,515716
+basso,67.2,"volumi nei limiti,cinesi conservata, FE >55%",BESV + BEV,oppressione retrosternale,medio,no,57,F,14521
+basso,66.5,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,100,M,174576
+basso,87.5,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,100,F,423644
+basso,67.1,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,61,F,11952537
+basso,73.4,"volumi nei limiti,cinesi conservata, FE >55%",ST sottoslivellato_orizzontale,dispnea,medio,no,71,F,11990624
+basso,79.0,"volumi nei limiti,ipocinesia apicale, FE >55%",PM,no,alto,no,75,M,45125
+alto,67.4,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,65,F,354988
+basso,70.4,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,45,F,78072
+basso,60.7,"",non significativo,oppressione retrosternale,medio,no,59,F,465952
+basso,72.3,"volumi nei limiti,cinesi conservata, FE >55%",ST sottoslivellato_orizzontale,no,medio,no,49,F,278207
+basso,76.4,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,58,F,96620
+basso,72.7,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,alto,no,89,M,15896
+basso,69.5,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,74,M,6908
+basso,62.8,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,58,F,12013713
+basso,52.8,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,76,M,475802
+basso,68.5,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,78,M,75813
+basso,61.4,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,68,F,16081
+basso,81.3,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,56,F,300876
+alto,83.6,"volumi nei limiti,ipocinesia inferiore, FE >55%",ST sottoslivellato_orizzontale,no,alto,no,74,M,257953
+basso,76.8,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,83,M,604723
+basso,67.0,"volumi nei limiti,cinesi conservata, FE >55%",BBdx,no,alto,no,86,M,240356
+basso,67.7,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,60,F,11987888
+medio,50.2,"volumi nei limiti,acinesia infreiore, FE >55%",non significativo,no,alto,no,82,M,346682
+basso,60.2,"volumi nei limiti,cinesi conservata, FE >55%",PM,no,alto,no,80,M,54421
+basso,47.0,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,100,M,157083
+basso,76.3,"volumi nei limiti,cinesi conservata, FE >55%",BBdx,no,medio,no,60,F,16400
+basso,64.2,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,alto,no,84,M,478557
+basso,76.1,"volumi nei limiti, ipocinesia apicale, FE >55%",non significativo,no,medio,no,69,F,11990501
+basso,76.0,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,57,F,11964873
+basso,83.5,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,68,M,390517
+basso,71.9,"volumi nei limiti,cinesi conservata, FE >55%",ST sottoslivellato_orizzontale,no,alto,no,93,M,394188
+basso,52.4,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,75,F,232675
+basso,66.0,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,69,F,11993732
+basso,73.8,"volumi nei limiti,cinesi conservata, FE >55%",ST sottoslivellato_orizzontale,no,alto,no,60,F,53390
+basso,65.6,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,68,M,11993606
+alto,70.9,"volumi nei limiti,ipocinesia laterale, FE >55%",non significativo,no,alto,no,85,M,23623
+basso,53.7,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,72,M,442117
+basso,71.4,"volumi nei limiti,ipocinesia inferiore, FE >55%",anomalie RV,no,alto,no,79,M,130009
+basso,86.8,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,70,M,11995398
+basso,61.0,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,75,M,110409
+basso,55.6,"",anomalie RV,precordialgie,medio,no,85,F,151817
+basso,77.1,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,77,F,11994678
+basso,67.8,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,110,M,444685
+basso,84.9,"volumi nei limiti,cinesi conservata, FE 45%",BBsx,dispnea,medio,no,80,M,173052
+basso,75.2,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,alto,no,69,F,243024
+basso,64.7,"",BBsx,no,medio,no,82,M,292922
+basso,70.9,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,dispnea,medio,no,77,F,297748
+basso,54.5,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,87,M,351761
+basso,66.5,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,52,F,2619
+basso,53.6,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,basso,no,85,M,549436
+basso,47.1,"volumi nei limiti,ipocinesia inferiroe, FE >55%",BBsx,no,medio,no,80,F,502049
+basso,50.4,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,80,M,59052
+basso,71.7,"volumi nei limiti,cinesi conservata, FE >55%",PM,no,medio,no,58,F,1680085
+medio,56.3,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,86,M,246273
+basso,82.1,"volumi nei limiti,cinesi conservata, FE >55%",ST sottoslivellato_orizzontale,oppressione retrosternale,medio,no,55,F,407814
+alto,73.1,"volumi nei limiti,cinesi conservata, FE >55%",ST sottoslivellato_orizzontale,no,alto,no,80,M,35351
+basso,68.0,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,88,M,140623
+basso,78.5,"volumi nei limiti,cinesi conservata, FE >55%",disturbo conduzione bi_fascicolare,no,alto,no,80,M,12041551
+basso,46.3,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,81,M,356899
+basso,69.2,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,73,M,378212
+basso,60.4,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,oppressione retrosternale,medio,no,77,F,593467
+basso,66.2,"volumi nei limiti,cinesi conservata, FE >55%",BEV,dispnea,alto,no,84,M,79346
+basso,57.7,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,60,F,79275
+alto,86.3,"volumi nei limiti,cinesi conservata, FE >55%",PM,no,alto,ECO Dobutamina: negativa per ischemia,71,M,8525
+basso,70.0,"volumi nei limiti,cinesi conservata, FE >55%",BBdx,no,medio,no,72,M,10022004
+basso,60.2,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,76,M,12006127
+basso,52.1,"",anomalie RV,no,basso,no,78,M,12016677
+basso,47.4,"",non significativo,no,medio,no,93,M,12007850
+basso,70.6,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,70,F,167107
+basso,81.5,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,68,M,12002044
+basso,75.3,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,70,M,494293
+basso,54.6,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,55,F,25290
+basso,69.5,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,costrizione retrosternale,alto,no,67,F,441647
+alto,70.8,"volumi nei limiti,cinesi conservata, FE 49%",non significativo,dispnea,alto,no,90,M,10460948
+basso,71.2,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,65,F,335664
+alto,66.1,"volumi nei limiti,cinesi conservata, FE >55%",ST sottoslivellato_orizzontale,oppressione retrosternale,alto,no,74,M,387309
+basso,80.1,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,alto,no,50,F,12006962
+basso,65.3,"volumi nei limiti,ipocinesia basale_inferiore, FE >55%",non significativo,no,medio,no,70,F,12010420
+alto,72.2,"volumi nei limiti,cinesi conservata, FE >55%",ST sottoslivellato_orizzontale,oppressione retrosternale,alto,no,72,M,317525
+basso,64.2,"",non significativo,no,basso,no,89,F,12049115
+basso,51.7,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,medio,no,63,F,357141
+basso,75.7,"volumi nei limiti,cinesi conservata, FE >55%",BEV,no,medio,no,67,M,33731
+basso,65.9,"volumi nei limiti,ipocinesia apico_settale, FE >55%",non significativo,no,alto,no,65,M,42574
+basso,72.0,"",anomalie RV,no,medio,no,91,M,12005897
+basso,58.3,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,67,F,331171
+basso,45.0,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,70,F,12046829
+alto,62.0,"volumi nei limiti,cinesi conservata, FE >55%",ST sottoslivellato_orizzontale,no,alto,no,81,M,552857
+basso,74.5,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,66,F,7159
+basso,70.8,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,precordialgie,medio,no,72,F,5990
+basso,88.0,"volumi nei limiti,ipocinesia inferiore, FE >55%",non significativo,dispnea,alto,no,57,F,12015862
+basso,75.6,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,77,F,57970
+basso,73.2,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,medio,no,67,F,113975
+basso,49.9,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,72,F,565905
+basso,69.9,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,76,F,577831
+basso,78.7,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,65,F,286658
+medio,87.4,"volumi nei limiti,ipocinesia inferiore, FE >55%",non significativo,no,alto,no,62,F,444802
+alto,77.6,"volumi nei limiti,acinesia inferiore, FE >55%",BEV,no,alto,no,68,M,256039
+basso,79.2,"volumi nei limiti,cinesi conservata, FE >55%",BEV,dispnea,alto,no,57,F,56685
+basso,69.7,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,alto,no,49,F,11926559
+medio,50.3,"volumi nei limiti,cinesi conservata, FE >55%",ST sottoslivellato_ascendente,no,alto,no,86,M,577393
+basso,71.0,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,69,M,591096
+basso,76.8,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,72,M,306131
+basso,54.9,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,dispnea,medio,no,76,F,436841
+basso,63.1,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,55,F,355714
+basso,74.2,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,69,M,414127
+basso,62.3,"",non significativo,no,medio,no,105,F,570486
+basso,66.2,"volumi nei limiti,cinesi conservata, FE >55%",ST sottoslivellato_ascendente,no,alto,no,89,M,11777316
+basso,79.8,"volumi nei limiti,ipocinesia inferolaterale FE 50%",anomalie RV,costrizione giugulare,medio,no,64,F,466426
+basso,73.6,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,54,F,37628
+basso,63.2,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,72,M,484191
+basso,62.7,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,79,F,12042172
+medio,78.6,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,73,M,135201
+basso,73.8,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,71,F,12022223
+basso,60.6,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,70,F,12022287
+alto,76.0,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,80,F,412160
+basso,60.1,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,77,M,133265
+basso,76.2,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,56,F,16759
+basso,71.1,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,70,F,85961
+basso,62.0,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,85,F,12050611
+basso,69.6,"volumi nei limiti,cinesi conservata, FE >55%",ST sottoslivellato_orizzontale,dispnea,alto,no,50,F,262358
+basso,83.2,"volumi nei limiti,cinesi conservata, FE 50%",BBsx,no,medio,no,57,F,256354
+alto,63.8,"volumi nei limiti,cinesi conservata, FE 50%",non significativo,no,alto,no,70,M,12029838
+basso,73.4,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,68,F,32792
+medio,64.3,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,ECO Dobutamina: negativa per ischemia,80,M,438747
+basso,81.0,"volumi nei limiti,ipocinesia apicale, FE >55%",non significativo,no,alto,no,80,M,162364
+basso,61.4,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,85,M,545309
+basso,59.0,"volumi nei limiti,cinesi conservata, FE >55%",ST sottoslivellato_ascendente,no,medio,no,53,F,46116
+basso,74.6,"volumi nei limiti,cinesi conservata, FE >55%",BESV,no,medio,no,76,M,368349
+alto,57.7,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,alto,no,84,M,466101
+basso,78.0,"volumi nei limiti,cinesi conservata, FE >55%",fibrillazione atriale,no,medio,no,82,F,12039330
+basso,69.6,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,medio,no,65,F,10020081
+basso,75.6,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,70,F,12000546
+basso,73.7,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,alto,no,60,M,12024913
+basso,63.0,"volumi nei limiti,cinesi conservata, FE >55%",EAsx,no,alto,no,74,M,69492
+basso,82.9,"volumi nei limiti,ipocinesia apice, inferiore, FE 45%",non significativo,dispnea,alto,no,85,M,12059167
+basso,61.6,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,88,F,520808
+basso,75.0,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,81,F,232769
+basso,68.4,"volumi nei limiti,cinesi conservata, FE >55%",BBdx,no,medio,no,76,F,12036764
+basso,59.2,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,106,M,36348
+medio,89.3,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,69,M,18920
+basso,55.6,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,basso,no,60,F,12042826
+basso,53.8,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,60,F,12039193
+medio,57.6,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,medio,ECO Bike Stress Test: negativa per ischemia,60,M,462378
+basso,73.6,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,74,F,230346
+basso,76.7,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,57,F,442055
+basso,65.8,"volumi nei limiti,cinesi conservata, FE >55%",TPSV,no,medio,no,61,M,15665
+basso,80.8,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,83,M,12017636
+basso,66.3,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,56,F,12039996
+basso,78.0,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,77,M,10813970
+medio,73.8,"volumi nei limiti,ipocinesia inferiore, FE >55%",non significativo,no,alto,no,85,M,355491
+basso,52.4,"",BBsx,no,medio,no,59,F,12042300
+alto,50.9,"volumi nei limiti,acinesia apicale, FE >55%",ST sottoslivellato_ascendente,no,alto,no,90,M,388261
+basso,63.8,"volumi nei limiti,cinesi conservata, FE >55%",BEV,no,alto,no,93,M,12042667
+alto,59.6,"volumi nei limiti,acinesia inferolaterale FE 45%",non significativo,no,alto,no,98,M,447826
+basso,74.4,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,85,F,12043643
+basso,53.6,"volumi nei limiti,cinesi conservata, FE >55%",ST sottoslivellato_ascendente,no,medio,no,80,M,201763
+basso,68.4,"volumi nei limiti,cinesi conservata, FE >55%",BEV,no,alto,no,70,M,563544
+basso,44.6,"volumi nei limiti,ipocinesia SIV, FE >55%",BEV,dispnea,basso,no,63,F,478816
+basso,72.8,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,medio,no,62,F,348016
+basso,63.7,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,basso,no,57,F,88298
+basso,83.5,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,medio,no,72,M,12044691
+basso,83.4,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,69,M,248252
+basso,71.0,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,72,M,278511
+basso,74.2,"volumi nei limiti,cinesi conservata, FE >55%",PM,no,alto,no,60,M,566815
+basso,42.6,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,basso,no,75,M,562307
+basso,81.2,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,alto,no,52,F,497157
+basso,74.4,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,87,M,35435
+medio,64.5,"volumi nei limiti,acinesia apicale, FE >55%",non significativo,costrizione retrosternale,alto,no,65,F,479537
+basso,60.8,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,80,F,332399
+basso,71.2,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,68,F,51411
+basso,87.4,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,66,F,589917
+alto,66.1,"volumi nei limiti,acinesia inferiore, FE >55%",non significativo,no,alto,no,77,M,32864
+basso,72.8,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,120,M,216863
+basso,79.9,"",non significativo,no,medio,no,80,F,11998459
+alto,58.1,"volumi nei limiti,acinesia inferolaterale, FE >55%",ST sottoslivellato_orizzontale,no,alto,no,75,M,240233
+basso,70.3,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,ECO Dobutamina: negativa per ischemia,70,F,170004
+basso,18.6,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,67,M,352888
+basso,81.1,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,70,F,9846
+basso,63.5,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,72,M,569325
+basso,76.7,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,medio,no,63,M,131821
+basso,71.4,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,71,M,12099453
+alto,65.3,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,dolore interscapolare,alto,no,69,M,459050
+basso,53.3,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,83,M,573433
+basso,56.5,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,ECO Dobutamina: negativa per ischemia,72,M,503636
+basso,62.4,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,56,F,1563948
+basso,82.3,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,49,F,80041
+alto,71.2,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,110,M,308976
+basso,68.1,"volumi nei limiti,cinesi conservata, FE 45%",BBsx,no,medio,no,97,M,12061736
+basso,68.9,"volumi nei limiti,cinesi conservata, FE >55%",ST sottoslivellato_ascendente,no,alto,no,84,M,12047385
+basso,76.0,"volumi nei limiti,cinesi conservata, FE >55%",ST sottoslivellato_ascendente,no,alto,no,70,M,236195
+basso,54.4,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,79,F,12038585
+alto,67.6,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,costrizione giugulare,alto,ECO Bike Stress Test: positiva per ischemia,70,F,471721
+basso,51.4,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,precordialgie,medio,no,65,M,378832
+medio,78.8,"volumi nei limiti,acinesia inferiore, FE >55%",non significativo,claudicatio,alto,no,52,M,385447
+basso,54.2,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,85,M,219482
+basso,67.5,"volumi nei limiti,cinesi conservata, FE >55%",ST sottoslivellato_ascendente,no,alto,no,69,M,41567
+basso,63.1,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,medio,no,73,M,238908
+alto,76.3,"volumi nei limiti,acinesia inferiore, FE >55%",non significativo,oppressione retrosternale,alto,no,68,M,12067087
+basso,82.5,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,medio,no,100,M,100939
+medio,74.5,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,80,M,296190
+basso,61.7,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,55,F,2028
+basso,70.7,"volumi nei limiti,cinesi conservata, FE >55%",disturbo conduzione intra_ventricolare,dispnea,alto,no,107,M,485225
+basso,61.2,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,ECO Bike Stress Test: negativa per ischemia,57,F,166679
+alto,75.8,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,alto,ECO Dobutamina: negativa per ischemia,100,M,215178
+basso,76.1,"volumi nei limiti,cinesi conservata, FE 50%",BBsx,no,medio,no,78,M,609696
+basso,60.3,"volumi nei limiti,cinesi conservata, FE >55%",ST sottoslivellato_ascendente,no,alto,no,73,M,192380
+basso,72.5,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,94,M,540210
+medio,66.7,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,55,F,12088724
+basso,76.4,"volumi nei limiti,cinesi conservata, FE >55%",ST sottoslivellato_ascendente,no,alto,no,74,M,526735
+basso,57.0,"volumi nei limiti,ipocinesia inferiore, FE >55%",non significativo,no,alto,no,91,M,168447
+basso,64.6,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,80,M,12124825
+basso,80.4,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,alto,no,72,F,519419
+basso,54.2,"",ST sottoslivellato_orizzontale,no,medio,no,58,M,168277
+basso,76.7,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,64,F,9726
+basso,53.7,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,62,M,443545
+basso,72.9,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,48,F,265074
+basso,63.0,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,84,M,12072523
+basso,71.3,"volumi nei limiti,cinesi conservata, FE >55%",BBdx,angina,alto,no,75,F,324001
+basso,82.5,"volumi aumentati,cinesi conservata, FE 42-44%",BBsx,no,alto,no,63,M,41872
+alto,74.1,"volumi nei limiti,cinesi conservata, FE 45%",BBsx,precordialgie,alto,no,83,M,281044
+basso,57.6,"",non significativo,no,medio,no,85,F,12073798
+basso,81.9,"volumi nei limiti,cinesi conservata, FE >55%",disturbo conduzione bi_fascicolare,no,alto,no,86,M,12112706
+basso,66.0,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,medio,no,54,F,12073813
+basso,48.7,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,72,M,12073961
+alto,80.8,"volumi nei limiti,ipocinesia inferiore, FE 37%",BBsx,dispnea,alto,no,60,F,558532
+basso,64.2,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,77,M,53721
+basso,68.4,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,alto,no,83,M,12076096
+basso,67.1,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,alto,ECO Bike Stress Test: negativa per ischemia,56,F,296214
+medio,87.3,"volumi nei limiti,ipocinesia inferiore, FE 50%",BBsx,no,alto,no,67,M,539862
+medio,75.2,"volumi nei limiti,cinesi conservata, FE >45%",anomalie RV,no,alto,no,75,M,316745
+alto,64.4,"volumi nei limiti,ipocinesia setto, FE 54%",non significativo,no,medio,no,91,M,211918
+basso,74.7,"",BBsx,no,medio,no,97,M,227189
+basso,73.4,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,75,F,527146
+basso,80.0,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,70,M,48144
+medio,75.3,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,70,M,12099487
+basso,80.5,"volumi nei limiti,cinesi conservata, FE >55%",PM,dispnea,alto,no,66,F,577121
+basso,80.8,"volumi nei limiti,cinesi conservata, FE >55%",BESV,no,medio,no,62,M,12042210
+basso,37.7,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,precordialgie,medio,no,74,F,556625
+basso,80.5,"volumi nei limiti,cinesi conservata, FE >55%",ST sottoslivellato_ascendente,no,alto,no,74,M,44235
+basso,75.5,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,87,F,80028
+basso,65.1,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,57,F,10565250
+basso,64.0,"volumi nei limiti,ipocinesia apicale, FE >55%",BBsx,no,medio,no,105,F,74239
+basso,63.7,"",non significativo,no,medio,no,76,F,171088
+basso,58.1,"CMD - ipocinesia inferiore, FE 45%",anomalie RV,no,alto,no,117,M,12102546
+basso,83.9,"",disturbo conduzione bi_fascicolare,no,medio,no,59,M,15493
+alto,74.2,"volumi nei limiti,cinesi conservata, FE 50%",non significativo,no,alto,no,96,M,154250
+basso,71.4,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,dispnea,alto,no,71,F,336455
+basso,83.7,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,dispnea,alto,no,58,M,430692
+basso,77.9,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,78,M,12029889
+basso,55.5,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,69,M,120833381
+basso,86.6,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,medio,no,62,F,12085481
+basso,72.3,"volumi nei limiti,cinesi conservata, FE 48%",BBsx,no,alto,no,64,M,12012292
+medio,74.5,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,alto,no,80,M,131748
+basso,56.3,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,91,M,12088652
+basso,59.7,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,80,F,280653
+basso,64.8,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,alto,no,86,M,506856
+medio,68.0,"volumi nei limiti,acinesia apicale , FE >55%",disturbo conduzione bi_fascicolare,no,alto,no,85,M,227932
+basso,43.8,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,88,M,265471
+basso,79.0,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,medio,no,64,M,12141502
+basso,61.3,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,89,M,12016649
+basso,73.4,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,50,F,241225
+alto,59.3,"volumi nei limiti,ipocinesia inferiore, FE >55%",ST sottoslivellato_ascendente,no,alto,no,92,M,12077229
+basso,81.5,"volumi nei limiti,cinesi conservata, FE 48%",fibrillazione atriale,no,medio,no,55,M,15098
+basso,61.5,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,87,M,402413
+basso,89.4,"volumi nei limiti,ipocinesia inferosettale FE 50%",BBdx,no,alto,no,48,F,350546
+basso,66.7,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,75,M,12091886
+basso,71.3,"volumi nei limiti,cinesi conservata, FE 50%",non significativo,dispnea,medio,no,62,F,60181
+basso,67.2,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,alto,no,97,M,342514
+basso,72.9,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,68,F,437
+basso,69.2,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,60,F,231888
+basso,65.6,"volumi nei limiti,cinesi conservata, FE >55%",ST sottoslivellato_ascendente,no,medio,no,58,F,7151
+basso,70.7,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,61,F,12117380
+alto,71.0,"volumi nei limiti, acinesia inferiore  FE >55%",anomalie RV,no,alto,no,90,M,190842
+basso,75.0,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,63,F,272108
+basso,67.0,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,68,F,71181
+basso,58.2,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,68,F,423143
+basso,84.8,"volumi nei limiti,cinesi conservata, FE 45%",BBsx,no,medio,no,48,F,482105
+basso,53.4,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,oppressione epigastrica,medio,no,68,F,136368
+alto,70.6,"volumi nei limiti,cinesi conservata, FE >55%",ST sottoslivellato_orizzontale,angina,alto,no,67,F,280605
+basso,54.3,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,88,M,560933
+basso,77.3,"volumi nei limiti,cinesi conservata, versamanento pericardico FE >55%",non significativo,no,medio,no,64,F,12097022
+basso,72.0,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,medio,no,65,F,281664
+alto,62.0,"CMD ipocinetica, FE >55%",BBsx,no,alto,no,57,M,373478
+basso,59.9,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,80,F,42065
+basso,62.3,"",anomalie RV,no,medio,no,94,F,12053535
+basso,57.9,"",BBsx,no,medio,no,80,M,463051
+basso,78.9,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,dispnea,alto,no,96,F,179460
+basso,59.2,"volumi nei limiti,cinesi conservata, FE >55%",ST sottoslivellato_orizzontale,no,medio,no,51,F,12088811
+basso,78.9,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,costrizione retrosternale,medio,no,68,F,186045
+basso,68.1,"",anomalie RV,no,medio,no,60,F,12103784
+basso,63.8,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,dispnea,medio,no,80,M,12103337
+basso,73.2,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,62,M,20513
+basso,58.0,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,67,M,209338
+medio,38.9,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,92,M,102874
+basso,78.3,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,82,F,206899
+basso,53.1,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,74,M,41674
+basso,56.6,"volumi nei limiti,acinesia inferiore, FE >55%",non significativo,no,alto,no,67,M,12159633
+basso,42.3,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,basso,no,70,M,448099
+alto,71.0,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,oppressione retrosternale,alto,no,86,M,308510
+basso,65.9,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,medio,no,101,M,471004
+basso,79.2,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,alto,no,59,F,50870
+basso,46.5,"",anomalie RV,no,medio,no,94,M,243397
+alto,70.1,"volumi nei limiti,cinesi conservata, FE >55%",T negativa,no,alto,no,84,M,22669
+basso,66.3,"volumi nei limiti,cinesi conservata, FE >55%",BESV,no,medio,no,59,F,31704
+basso,73.2,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,85,M,54540
+basso,59.8,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,118,F,324350
+basso,60.9,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,72,M,12112300
+basso,53.8,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,73,M,108835
+basso,76.2,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,66,M,12169502
+basso,66.7,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,71,M,406681
+basso,75.2,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,medio,no,86,F,513896
+basso,57.0,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,oppressione retrosternale,alto,no,76,F,10535398
+basso,57.5,"",non significativo,no,medio,no,116,M,382269
+basso,75.7,"volumi nei limiti,cinesi conservata, FE >55%",BEV,no,alto,no,73,F,11968680
+basso,57.3,"",ST sottoslivellato_orizzontale,no,medio,no,55,F,17740
+basso,70.8,"volumi nei limiti,cinesi conservata, FE 50%",BBsx,no,medio,no,40,F,124207
+basso,82.4,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,medio,no,58,F,23295
+alto,66.0,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,medio,no,85,M,12114631
+medio,55.7,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,medio,no,55,F,386111
+basso,37.1,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,90,F,502984
+basso,69.3,"volumi nei limiti,cinesi conservata, FE >55%",ST sottoslivellato_orizzontale,no,alto,no,78,M,11485877
+basso,62.2,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,62,F,403877
+basso,57.4,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,dispnea,medio,no,65,F,570877
+alto,76.4,"CMD,ipoicnesia diffusa, FE 45%",BBsx,no,alto,no,74,M,12084329
+basso,74.5,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,ECO Bike Stress Test: negativa per ischemia,80,F,48667
+basso,66.6,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,75,F,12121037
+basso,81.8,"volumi nei limiti,ipocinesia inferiore, FE 48%",PM,no,medio,no,85,M,12122968
+basso,74.8,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,73,F,67693
+basso,73.1,"CMD,ipoicnesia diffusa, FE 45%",TPSV,no,medio,no,98,M,387507
+basso,43.4,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,82,M,485536
+basso,77.2,"volumi nei limiti,ipo_acinesia apicale, FE >55%",fibrillazione atriale,no,alto,no,80,M,350439
+alto,62.2,"volumi nei limiti,acinesia apicale, FE 44%%",non significativo,no,alto,no,90,M,484721
+alto,77.1,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,dispnea,alto,no,82,F,192102
+basso,66.2,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,73,M,505316
+basso,48.8,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,100,M,12173190
+basso,66.7,"volumi nei limiti,ipocinesia inferiore, FE >55%",ST sottoslivellato_ascendente,no,alto,no,77,M,12068920
+basso,66.3,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,85,F,611946
+basso,50.3,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,88,M,303977
+basso,62.4,"volumi nei limiti,ipoicnesia inferolaterale, FE >55%",BBdx,no,alto,no,64,M,96165
+basso,55.6,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,62,F,124399
+basso,41.7,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,66,F,408644
+basso,73.8,"volumi nei limiti,cinesi conservata anuerisma SIV, FE >55%",non significativo,no,medio,no,66,M,305946
+basso,70.4,"volumi nei limiti,cinesi conservata, FE >55%",BBdx,no,medio,no,84,M,594315
+basso,45.8,"volumi nei limiti,ipocinesia diffusa , FE <30%",BBsx,no,medio,no,84,M,591350
+alto,49.3,"volumi nei limiti,ipocinesia inferiore, FE >55%",ST sottoslivellato_orizzontale,dispnea,alto,no,76,F,337338
+basso,77.0,"volumi nei limiti,cinesi conservata, FE >55%",disturbo conduzione bi_fascicolare,no,alto,no,93,M,95438
+basso,53.6,"volumi nei limiti,acinesia apicale, FE >55%",non significativo,no,medio,no,78,M,476475
+basso,55.9,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,90,M,101541
+basso,80.4,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,alto,no,83,M,66914
+basso,55.8,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,48,F,44316
+basso,79.6,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,alto,no,76,M,498075
+alto,84.7,"volumi nei limiti,cinesi conservata, FE 50%",BBdx,no,alto,no,105,M,58054
+basso,75.8,"volumi nei limiti,cinesi conservata, FE >55%",BEV,no,medio,no,100,M,63075
+basso,71.5,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,basso,no,70,F,600305
+basso,53.7,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,80,M,10904639
+basso,81.0,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,84,M,40462
+basso,76.9,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,alto,no,65,F,12098286
+alto,75.8,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,80,M,534974
+basso,49.9,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,basso,no,73,M,440480
+basso,61.7,"CMD ipocinetica, FE 25%",PM,no,alto,no,114,M,584036
+basso,65.9,"",anomalie RV,no,medio,no,97,M,56947
+medio,62.8,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,75,M,12013259
+basso,68.2,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,75,M,39476
+basso,81.3,"volumi nei limiti,cinesi conservata, FE 50%",fibrillazione atriale,no,alto,no,67,F,6263
+basso,52.0,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,alto,no,77,M,412588
+basso,71.2,"volumi nei limiti,cinesi conservata, FE 50%",BBsx,no,alto,no,65,M,114678
+basso,67.5,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,medio,no,90,M,12146111
+basso,77.5,"volumi nei limiti,cinesi conservata, FE >55%",ST sottoslivellato_ascendente,costrizione retrosternale,alto,no,66,M,475350
+basso,72.5,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,75,M,12143998
+alto,71.4,"volumi nei limiti,ipocinesia laterale, FE >55%",ST sottoslivellato_ascendente,no,alto,no,68,M,285512
+basso,65.1,"volumi nei limiti,ipocinesia inferiore, FE >55%",non significativo,no,medio,no,93,M,216414
+basso,79.8,"volumi nei limiti,cinesi conservata, FE >55%",T pseudonormalizzazione,no,medio,no,68,F,3330
+basso,68.6,"",non significativo,dispnea,medio,no,86,M,85652
+basso,48.6,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,115,F,148440
+basso,72.5,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,67,F,577525
+basso,57.5,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,80,M,37572
+basso,65.0,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,71,F,435819
+basso,72.8,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,alto,no,88,M,84773
+basso,68.6,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,69,M,559334
+basso,50.7,"volumi nei limiti,cinesi conservata, FE 40%",BBsx,dispnea,medio,no,87,F,100412
+basso,57.3,"volumi nei limiti,cinesi conservata, FE >55%",ST sottoslivellato_ascendente,no,medio,no,52,F,352145
+basso,62.3,"",non significativo,no,medio,no,80,M,41511
+basso,84.1,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,70,M,235003
+basso,64.2,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,75,M,78151
+basso,46.9,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,103,M,564885
+basso,62.7,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,medio,no,66,M,263487
+basso,75.0,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,72,F,253398
+basso,80.0,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,83,F,231140
+basso,53.1,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,75,F,18348
+basso,67.0,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,dispnea,medio,no,47,F,343477
+basso,75.1,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,medio,no,82,F,566464
+basso,80.0,"volumi nei limiti,ipocinesia inferiore, FE >55%",non significativo,no,alto,no,69,M,11817078
+alto,72.4,"CMD, ipocinesia diffusa, FE 25%",PM,oppressione epigastrica,alto,no,78,M,310009
+basso,70.2,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,precordialgie,medio,no,68,F,563696
+basso,70.6,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,alto,no,73,M,387328
+basso,65.0,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,96,M,122555
+basso,75.6,"volumi nei limiti,discinesia apico_settale, FE >55%",non significativo,no,medio,no,91,M,30494
+basso,55.7,"",anomalie RV,no,basso,no,87,M,567222
+basso,70.8,"",ST sottoslivellato_ascendente,no,medio,no,71,M,405714
+basso,67.1,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,basso,no,57,F,549345
+basso,68.4,"",anomalie RV,no,alto,no,68,F,567271
+basso,52.4,"",anomalie RV,calo pressorio,medio,no,92,M,437362
+basso,55.9,"volumi nei limiti,cinesi conservata, FE 50%",anomalie RV,no,medio,no,59,F,112241
+basso,76.6,"volumi nei limiti,cinesi conservata, FE >55%",BBdx,no,alto,no,73,M,287386
+basso,47.2,"",non significativo,no,medio,no,78,M,567920
+medio,75.9,"volumi nei limiti,acinesia anetrosettale, FE >55%",disturbo conduzione bi_fascicolare,no,alto,no,90,M,219382
+basso,78.6,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,97,M,80109
+basso,77.4,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,74,F,49027
+basso,59.3,"",non significativo,no,basso,no,88,M,475571
+basso,81.2,"volumi nei limiti,dissinergia SIV, FE >55%",BBsx,dispnea,medio,no,69,M,288093
+basso,76.0,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,75,M,44803
+basso,60.0,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,angina,alto,no,95,M,115916
+basso,64.7,"volumi nei limiti,cinesi conservata, FE >55%",ST sottoslivellato_ascendente,no,alto,no,67,M,131278
+basso,70.2,"volumi nei limiti,cinesi conservata, FE >55%",bradiaritmia atriale,no,medio,no,100,M,565031
+basso,66.0,"volumi nei limiti,cinesi conservata, FE >55%",BESV,no,medio,no,80,F,268071
+basso,72.4,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,57,M,569002
+basso,68.6,"volumi nei limiti,cinesi conservata, FE >50%",non significativo,dispnea,alto,no,60,F,549186
+basso,82.0,"volumi nei limiti,cinesi conservata, FE >55%",PM,no,medio,no,73,F,97689
+basso,83.7,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,dispnea,alto,no,83,F,371154
+basso,46.2,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,73,M,495011
+basso,64.2,"",non significativo,no,alto,no,73,F,443584
+basso,67.9,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,alto,no,68,F,317825
+basso,71.6,"",non significativo,no,alto,no,88,M,346564
+basso,58.4,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,alto,no,92,F,562475
+basso,77.9,"volumi nei limiti,acinesia SIV, FE >55%",non significativo,no,medio,no,81,F,359043
+basso,60.4,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,81,M,72028
+medio,64.1,"volumi nei limiti,ipocinesia inferiore FE 50%",anomalie RV,no,medio,no,57,F,570394
+basso,62.7,"volumi nei limiti,cinesi conservata, FE 47%",BBsx,no,alto,no,73,F,570395
+basso,73.1,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,65,M,231881
+basso,68.0,"",non significativo,no,alto,no,120,M,185242
+basso,77.9,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,52,F,96150
+basso,56.5,"volumi nei limiti,ipocinesia apice+inferosettale, FE >55%",fibrillazione atriale,no,medio,no,98,M,543042
+basso,59.4,"",non significativo,no,medio,no,76,F,426308
+basso,67.9,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,59,F,199620
+basso,82.4,"volumi nei limiti,ipo_acinesia inferiore, FE >55%",non significativo,no,medio,no,66,F,570576
+basso,56.0,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,118,M,570773
+basso,62.4,"volumi nei limiti,cinesi conservata, FE >55%",ST sottoslivellato_ascendente,no,medio,no,68,F,571228
+basso,71.5,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,dispnea,medio,no,68,F,23152
+basso,62.3,"volumi nei limiti,dissinergia SIV, FE 54%",BBsx,no,medio,no,98,F,571386
+basso,75.6,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,55,F,571403
+basso,40.9,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,oppressione retrosternale,medio,no,64,M,381560
+basso,55.6,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,medio,no,59,F,571735
+alto,53.2,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,alto,no,88,M,189431
+basso,63.2,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,basso,no,70,M,91890
+basso,58.2,"volumi nei limiti,cinesi conservata, FE >55%",BBdx,no,basso,no,68,M,571996
+alto,69.8,"CMD, ipocinesia diffusa FE 43%",BBsx,dispnea,alto,no,80,M,513638
+basso,77.3,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,dispnea,alto,no,70,M,43140
+basso,74.8,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,58,M,200022
+basso,60.4,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,basso,no,60,F,572977
+basso,46.0,"CMD, ipocinesia diffuss FE 35%",non significativo,no,medio,no,135,M,392373
+basso,61.0,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,alto,no,80,M,487532
+basso,69.7,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,medio,no,69,F,11217955
+basso,60.9,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,alto,no,50,F,431413
+basso,78.7,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,60,F,573912
+basso,60.9,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,81,F,231622
+basso,58.2,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,80,M,574096
+basso,54.1,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,precordialgie,medio,no,55,F,316874
+basso,71.6,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,medio,no,85,M,334544
+basso,74.8,"volumi nei limiti,cinesi conservata, FE >55%",ST sottoslivellato_orizzontale,no,alto,no,42,F,574565
+basso,78.4,"volumi nei limiti,cinesi conservata, ipertrofia SIV FE >55%",non significativo,no,medio,no,78,F,574589
+basso,52.6,"volumi nei limiti,cinesi conservata, FE >55%",T pseudonormalizzazione,no,medio,no,120,F,575289
+basso,77.1,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,medio,no,90,F,575293
+basso,63.8,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,88,M,575591
+basso,79.3,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,71,F,310379
+basso,66.2,"volumi nei limiti,cinesi conservata, FE >55%",BEV,no,alto,no,80,M,524394
+basso,76.5,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,medio,no,61,F,207416
+basso,71.6,"volumi nei limiti,cinesi conservata, FE >55%",BEV,no,medio,no,97,M,575864
+basso,62.1,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,alto,no,78,M,575884
+basso,73.4,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,alto,no,58,F,499510
+basso,77.4,"volumi nei limiti,cinesi conservata, FE >55%",PM,no,medio,no,84,F,312434
+basso,68.2,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,50,F,310937
+basso,63.9,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,54,F,576356
+basso,68.4,"volumi nei limiti,ipocinesia inferiore, FE >55%",anomalie RV,no,alto,no,88,M,307695
+basso,69.8,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,75,M,342351
+basso,78.7,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,79,M,230973
+basso,82.5,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,62,F,576677
+basso,70.5,"CMD,ipo_acinesia apicale, FE50%",BBdx,no,alto,no,130,M,44070
+basso,77.1,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,alto,no,49,F,140048
+basso,72.9,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,oppressione retrosternale,medio,no,65,F,107284
+basso,77.4,"",anomalie RV,no,medio,no,60,M,577118
+basso,78.3,"volumi nei limiti,ipocinesia inferosettale, FE >55%",non significativo,no,medio,no,62,F,440339
+basso,82.4,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,costrizione retrosternale,alto,no,54,F,577390
+basso,71.6,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,70,F,577421
+basso,64.7,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,alto,no,77,M,539198
+basso,77.0,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,dispnea,medio,no,62,F,163393
+basso,78.9,"volumi nei limiti,cinesi conservata, FE >55%",PM,no,medio,no,70,M,308947
+basso,65.6,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,90,F,47985
+basso,75.3,"volumi nei limiti, FE 35%",BEV,dispnea,medio,no,96,F,578253
+basso,53.6,"volumi nei limiti,ipocinesia anteriore, FE >55%",BEV,no,medio,no,78,M,578256
+basso,67.0,"CMD ipocinetica , FE 46%",non significativo,no,medio,no,80,M,134719
+basso,70.9,"volumi nei limiti,cinesi conservata, FE 50%",BBsx,no,alto,no,100,M,578394
+alto,51.9,"CMD,acinesia SIV FE 40%",non significativo,no,alto,no,70,M,256597
+basso,58.8,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,78,M,135740
+basso,74.7,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,75,M,1630
+basso,74.1,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,dispnea,alto,no,95,F,67049
+basso,71.6,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,52,F,578548
+basso,74.4,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,46,F,279772
+basso,70.0,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,80,M,578693
+basso,62.3,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,77,M,68451
+basso,58.7,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,77,M,578953
+basso,55.6,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,95,M,512273
+basso,74.7,"volumi nei limiti,cinesi conservata, FE >55%",BBdx,no,alto,no,82,M,14225
+basso,72.9,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,68,F,578995
+basso,67.6,"volumi nei limiti,cinesi conservata, FE >55%",ST sottoslivellato_orizzontale,oppressione retrosternale,medio,no,64,F,579098
+basso,76.6,"",non significativo,no,medio,no,70,F,549082
+basso,66.6,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,alto,no,78,F,579125
+basso,52.0,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,medio,no,90,M,579141
+basso,74.0,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,69,M,112864
+medio,62.3,"volumi nei limiti,acinesia inferiore, FE >50%",non significativo,no,alto,no,91,M,8765
+basso,55.8,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,61,F,260687
+basso,60.2,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,96,M,183431
+basso,71.7,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,59,F,10556550
+basso,71.4,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,alto,no,71,M,139595
+basso,74.8,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,85,M,11875971
+basso,58.0,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,basso,no,76,M,438273
+basso,53.3,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,95,F,580117
+basso,74.3,"volumi nei limiti,cinesi conservata, FE >55%",fibrillazione atriale,no,alto,no,72,F,580234
+basso,59.5,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,61,M,571646
+basso,44.0,"volumi nei limiti,cinesi conservata, FE >55%",ST sottoslivellato_ascendente,no,medio,no,58,F,580266
+basso,60.7,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,medio,no,78,M,527971
+basso,57.8,"volumi nei limiti,acinesia inferiore, FE >55%",ST sottoslivellato_orizzontale,no,alto,no,75,M,437519
+basso,54.3,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,basso,no,49,F,580617
+basso,81.1,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,oppressione retrosternale,medio,no,64,F,580629
+basso,76.9,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,84,M,477817
+basso,62.0,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,112,F,117901
+basso,78.0,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,95,F,581414
+basso,77.5,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,80,M,109010
+basso,61.1,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,70,F,217689
+basso,61.9,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,55,F,3805
+basso,73.6,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,57,F,582045
+basso,71.9,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,58,F,141990
+basso,64.1,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,medio,no,100,M,380997
+alto,66.4,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,dispnea,alto,no,77,M,242216
+basso,70.9,"volumi nei limiti,discinesia SIV, FE >55%",non significativo,no,alto,no,62,F,11877633
+basso,70.6,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,alto,no,56,F,265727
+basso,72.1,"volumi nei limiti,cinesi conservata, FE >55%",ST sottoslivellato_orizzontale,no,alto,no,70,M,4822
+basso,72.8,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,62,F,444609
+basso,59.4,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,medio,no,77,F,582839
+basso,59.1,"lieve dilatazione ventricolare sinistra,cinesi conservata, FE 50%",non significativo,no,medio,no,63,F,132971
+basso,77.4,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,medio,no,50,F,583017
+basso,69.7,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,68,M,501369
+basso,48.4,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,48,F,173872
+basso,69.9,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,81,F,40783
+basso,68.6,"volumi nei limiti,cinesi conservata, FE >55%",fibrillazione atriale,no,alto,no,92,M,191294
+basso,85.4,"volumi nei limiti,cinesi conservata, FE >55%",disturbo conduzione bi_fascicolare,no,alto,no,96,M,504635
+basso,43.2,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,basso,no,90,M,158721
+basso,64.1,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,76,M,1389
+alto,73.9,"CMD ipoicnetica, FE 25%",BBsx,no,alto,no,72,M,584436
+basso,62.7,"volumi nei limiti,cinesi conservata, FE >55%",ST sottoslivellato_orizzontale,no,alto,no,68,M,372879
+basso,57.6,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,47,F,2015
+basso,77.8,"volumi nei limiti,cinesi conservata, FE >55%",BEV,no,medio,no,62,F,575233
+basso,69.5,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,94,M,584921
+basso,79.8,"volumi nei limiti,cinesi conservata, FE 50%",BBsx,no,alto,no,120,M,207887
+medio,65.3,"volumi nei limiti,acinesia  apicale, FE56%",ST sottoslivellato_ascendente,no,alto,no,85,M,585151
+basso,65.5,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,dispnea,medio,no,85,F,23078
+alto,63.3,"volumi nei limiti,ipocinesia inferiorea, FE >55%",ST sottoslivellato_ascendente,no,alto,no,84,M,247844
+basso,79.3,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,46,F,456649
+basso,76.9,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,alto,no,82,F,183163
+basso,69.2,"volumi nei limiti,cinesi conservata, FE >55%",ST sottoslivellato_ascendente,no,medio,no,52,F,10145
+basso,67.3,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,90,M,11893630
+basso,70.2,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,70,M,201575
+basso,52.6,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,72,M,108835
+basso,69.5,"volumi nei limiti,cinesi conservata, FE >55%",ST sottoslivellato_orizzontale,no,alto,no,61,M,492741
+alto,69.3,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,80,M,47561
+basso,66.2,"",disturbo conduzione intra_ventricolare,no,alto,no,85,M,420763
+basso,66.9,"",anomalie RV,no,medio,no,49,F,587495
+medio,66.1,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,75,M,332738
+basso,62.0,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,53,F,98524
+alto,69.9,"CMD ipocinetica, FE 45%",fibrillazione atriale,no,alto,no,73,M,133118
+basso,65.3,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,76,M,218417
+basso,44.2,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,72,M,210070
+basso,75.1,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,alto,no,70,F,163233
+alto,70.8,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,alto,no,80,M,475784
+basso,41.7,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,57,M,567879
+basso,67.1,"volumi nei limiti,ipocinesia inferolaterale FE 50%",non significativo,no,alto,no,107,M,64904
+basso,76.6,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,80,M,213150
+basso,79.3,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,medio,no,69,F,362616
+basso,69.2,"volumi nei limiti,cinesi conservata, FE >55%",ST sottoslivellato_orizzontale,no,medio,no,51,F,20169
+basso,64.5,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,88,M,179021
+basso,74.9,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,75,M,125030
+basso,68.5,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,72,M,26660
+basso,60.4,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,79,F,31304
+basso,71.9,"volumi nei limiti,ipocinesia inferiore, FE >55%",non significativo,dispnea,alto,no,62,F,56644
+basso,50.2,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,medio,no,71,M,493019
+basso,80.3,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,alto,no,58,F,48117
+basso,66.7,"volumi nei limiti,cinesi conservata, FE >55%",ST sottoslivellato_ascendente,costrizione retrosternale,alto,no,70,M,599867
+basso,77.0,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,dispnea,alto,no,78,M,151783
+basso,70.5,"volumi nei limiti,ipocinesia inferolaterale, FE 45-50%",non significativo,no,alto,no,79,M,552428
+basso,80.5,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,78,M,589981
+basso,72.0,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,80,M,589996
+basso,49.6,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,dispnea,medio,no,72,F,205804
+alto,71.5,"volumi nei limiti,ipocinesia laterale, FE >55%",non significativo,no,alto,no,88,M,506998
+basso,80.6,"volumi nei limiti,cinesi conservata, FE >55%",BESV + BEV,no,medio,no,75,F,429742
+basso,59.7,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,84,M,590124
+medio,90.4,"volumi nei limiti,cinesi conservata, FE >55%",PM,no,alto,no,88,M,51619
+medio,64.1,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,medio,no,98,M,423352
+basso,74.7,"volumi nei limiti,cinesi conservata, FE >55%",BEV,no,medio,no,71,M,57159
+basso,62.3,"",non significativo,precordialgie,medio,no,73,M,258392
+alto,42.9,"volumi nei limiti,cinesi conservata, FE >55%",BEV,oppressione retrosternale,alto,no,65,F,402464
+basso,65.3,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,alto,no,67,M,56938
+basso,80.0,"volumi nei limiti,acinesia inferiore, FE >55%",ST sottoslivellato_orizzontale,no,alto,no,70,M,158090
+basso,62.9,"volumi nei limiti,cinesi conservata, FE >55%",BEV,dispnea,medio,no,69,F,121319
+alto,77.6,"CMD, ipocinesia anteriore + apex, FE 35%",BBsx,no,alto,no,46,F,591219
+basso,81.0,"volumi nei limiti,cinesi conservata, FE 50%",PM,no,alto,ECO Dobutamina: negativa per ischemia,72,F,49475
+basso,84.0,"volumi nei limiti,cinesi conservata, FE >55%",PM,no,alto,no,74,M,327161
+basso,62.4,"volumi nei limiti,cinesi conservata, FE35%",BBdx,no,medio,no,63,F,123179
+basso,51.9,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,78,M,5491
+basso,82.4,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,75,F,36377
+basso,58.5,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,116,M,11848218
+basso,69.7,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,67,F,69961
+basso,65.2,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,84,F,187895
+basso,85.0,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,58,F,286275
+basso,77.4,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,costrizione retrosternale,alto,no,65,F,510928
+basso,79.5,"CMD,ipocinesia setto, inferolaterale, FE45%",BBsx,no,medio,no,80,M,84360
+basso,45.3,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,83,F,204568
+basso,58.0,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,medio,no,57,F,11923878
+medio,70.7,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,99,M,592198
+basso,70.9,"volumi nei limiti,cinesi conservata, FE >55%",TPSV,no,alto,no,89,M,214155
+basso,42.7,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,83,M,592206
+alto,72.2,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,dispnea,alto,no,90,M,592226
+basso,56.7,"",anomalie RV,no,medio,no,73,M,592425
+basso,77.7,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,77,M,143354
+alto,55.7,"volumi nei limiti,acinesia apicale, FE 50%",non significativo,no,alto,no,87,M,356093
+basso,71.8,"volumi nei limiti,cinesi conservata, FE >55%",ST sottoslivellato_ascendente,no,medio,no,85,M,1005632
+alto,73.0,"volumi nei limiti,ipocinesia apicale FE 54%",non significativo,no,alto,no,94,M,183655
+basso,72.0,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,48,F,503737
+basso,65.1,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,76,M,517687
+basso,70.2,"volumi nei limiti,cinesi conservata, FE >55%",BEV,no,medio,no,82,F,498839
+basso,78.3,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,79,F,10786505
+basso,89.2,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,47,F,372107
+medio,75.6,"volumi nei limiti,cinesi conservata, FE >55%",BEV,no,alto,no,89,M,68416
+basso,72.8,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,77,M,243523
+basso,65.8,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,66,F,57000
+alto,49.3,"volumi nei limiti,cinesi conservata, FE >55%",ST sottoslivellato_orizzontale,oppressione epigastrica,medio,no,72,M,597183
+basso,73.6,"volumi nei limiti,cinesi conservata, FE >55%",T pseudonormalizzazione,no,medio,no,82,F,516547
+basso,54.5,"ipertrofia ventricolare sinistra,cinesi conservata, FE 50%",BBdx,no,medio,no,86,M,10941172
+basso,64.0,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,dispnea,alto,no,75,M,331141
+basso,70.5,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,80,F,593498
+basso,66.8,"volumi nei limiti,cinesi conservata, FE >55%",EAsx,no,medio,no,50,F,222269
+alto,84.7,"CMD ipocinetica, FE 35%",PM,no,alto,no,82,M,205365
+basso,60.2,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,70,M,270169
+alto,73.4,volumi aumentati- ipocinesia diffusa accentuata inferolaterale FE 45%,anomalie RV,no,alto,no,90,M,27491
+basso,86.1,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,71,F,52622
+basso,58.0,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,83,M,18342
+basso,60.7,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,82,M,282182
+basso,63.4,"volumi nei limiti,cinesi conservata, FE >55%",ST sottoslivellato_orizzontale,no,alto,no,82,M,594121
+basso,61.7,"volumi nei limiti,cinesi conservata, FE >55%",ST sottoslivellato_ascendente,no,alto,no,72,M,18134
+basso,64.4,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,72,F,179930
+basso,83.8,"volumi nei limiti,acinesia Basale_Anteriore; ipocinesia Apicale_Anteriore  FE >55% ",non significativo,no,alto,no,75,M,22952
+basso,70.8,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,alto,no,104,M,229849
+basso,51.6,"volumi nei limiti,cinesi conservata, FE >55%",ST sottoslivellato_orizzontale,oppressione retrosternale,medio,no,62,F,594458
+basso,73.2,"volumi nei limiti,FE 40%",fibrillazione atriale,no,alto,no,80,F,589708
+basso,76.3,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,medio,no,73,M,11232643
+basso,47.3,"volumi nei limiti,ipocinesia inferiore, FE >55%",non significativo,no,medio,no,76,M,220497
+basso,69.8,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,basso,no,80,M,594738
+basso,75.5,"",non significativo,no,medio,no,70,M,332651
+basso,82.6,"volumi nei limiti, ipocinesia apicale, FE >55%",PM,no,alto,ECO Dobutamina: negativa per ischemia,75,M,62517
+basso,57.9,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,66,F,594960
+basso,73.6,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,precordialgie,medio,no,60,F,594965
+basso,51.6,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,ECO Dobutamina: negativa per ischemia,74,M,320092
+basso,72.0,"volumi nei limiti,cinesi conservata, FE 45%",anomalie RV,no,alto,no,95,M,595068
+basso,75.4,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,dispnea,alto,no,113,M,409396
+"",65.2,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,alto,no,63,M,596326
+basso,60.8,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,alto,no,68,F,421131
+basso,48.7,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,80,F,3501836
+medio,80.2,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,alto,no,69,M,452172
+basso,64.2,"volumi nei limiti,cinesi conservata, FE >55%",PM,no,alto,no,88,M,529770
+basso,52.9,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,59,M,192788
+basso,85.9,"volumi nei limiti,ipocinesia inferiore, FE >55%",BBsx,cefalea,alto,no,72,M,497020
+basso,63.1,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,ECO Dipiridamolo: negativa per ischemia,49,F,595688
+basso,73.6,"volumi nei limiti,cinesi conservata, FE >55%",BBdx,no,alto,no,80,F,460042
+basso,64.6,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,dispnea,medio,no,80,F,516547
+basso,58.6,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,alto,no,79,M,230466
+basso,77.4,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,dispnea,alto,no,71,F,153612
+basso,69.2,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,alto,no,62,M,595877
+basso,69.6,"volumi nei limiti,cinesi conservata, FE 40%",BBsx,dispnea,medio,no,52,F,363084
+basso,72.8,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,75,M,145016
+basso,72.2,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,83,M,177272
+basso,60.8,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,65,M,179358
+basso,63.5,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,precordialgie,alto,ECO Bike Stress Test: negativa per ischemia,70,M,596219
+alto,70.5,"volumi nei limiti,ipocinesia inferolaterale FE 50%",non significativo,bruciore retrosternale,alto,no,70,M,596328
+basso,81.8,"volumi nei limiti,FE 45%",PM,no,alto,no,75,M,81005
+basso,83.4,"volumi nei limiti,cinesi conservata, FE >55%",fibrillazione atriale,no,alto,no,70,M,10460930
+basso,67.4,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,68,M,179945
+basso,55.8,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,77,M,121186
+alto,80.1,"volumi nei limiti,cinesi conservata, FE >55%",BBdx,no,medio,no,72,M,299818
+basso,70.5,"volumi nei limiti,dissinergia SIV, FE 48/50%",BBsx,no,alto,no,75,M,90313
+alto,50.1,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,alto,no,64,M,211077
+basso,78.6,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,dispnea,alto,no,74,F,596747
+basso,71.8,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,76,F,450129
+basso,45.9,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,80,M,300515
+alto,77.3,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,73,F,147467
+basso,51.3,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,93,M,309417
+alto,72.7,"volumi nei limiti,cinesi conservata, FE >55%",fibrillazione atriale,no,alto,no,85,M,499222
+basso,70.0,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,alto,no,86,F,259330
+basso,60.8,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,62,M,585930
+basso,82.5,"volumi nei limiti,cinesi conservata, FE >55%",PM,dispnea,medio,no,72,M,341659
+basso,75.3,"volumi nei limiti,cinesi conservata, FE >55%",ST sottoslivellato_ascendente,no,alto,no,80,M,597344
+basso,65.5,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,92,F,225054
+basso,75.3,"volumi nei limiti,cinesi conservata, FE >55%",ST sottoslivellato_ascendente,no,alto,no,63,M,15630
+medio,61.4,"volumi nei limiti,acinesia inferiore, FE >55%",non significativo,no,alto,no,95,M,544507
+basso,55.6,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,medio,no,67,F,597472
+basso,70.7,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,dispnea,alto,no,71,F,85961
+basso,50.4,"volumi nei limiti,cinesi conservata, FE >55%",ST sottoslivellato_ascendente,no,medio,no,43,F,510500
+basso,50.5,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,oppressione retrosternale,alto,no,73,F,188646
+basso,76.6,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,111,F,232063
+basso,67.4,"volumi nei limiti,cinesi conservata, FE >55%",ST sottoslivellato_ascendente,no,alto,no,67,M,597755
+basso,57.5,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,precordialgie,medio,no,65,F,172653
+basso,56.8,"volumi nei limiti,cinesi conservata, FE >55%",T negativa,no,alto,no,79,M,435967
+basso,58.1,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,59,F,364018
+basso,44.2,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,126,M,518070
+basso,68.7,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,medio,no,75,F,10420631
+basso,70.7,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,79,F,596514
+basso,79.4,"volumi nei limiti,cinesi conservata, FE >55%",fibrillazione atriale,no,alto,no,65,M,141869
+basso,49.8,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,92,M,596536
+basso,66.3,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,79,F,124213
+basso,65.6,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,alto,no,82,M,14443
+basso,76.6,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,88,M,222426
+basso,76.4,"volumi nei limiti,cinesi conservata, FE >55%",BBdx,no,medio,no,82,M,598503
+basso,77.4,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,60,F,598511
+basso,51.4,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,61,F,555664
+basso,68.6,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,77,M,487235
+basso,52.9,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,dispnea,medio,no,75,F,192642
+basso,54.5,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,100,M,598604
+alto,74.6,CMD - acinesia setto - FE 35%,disturbo conduzione bi_fascicolare,dispnea,alto,no,59,F,11117
+basso,78.9,"volumi nei limiti,cinesi conservata, FE >55%",BESV,no,medio,no,46,F,11950983
+basso,88.0,"volumi nei limiti,cinesi conservata, FE >55%",BBdx,no,alto,no,48,F,67488
+basso,65.1,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,52,F,297154
+basso,87.0,"volumi nei limiti,cinesi conservata, FE >55%",disturbo conduzione bi_fascicolare,no,medio,no,62,M,66304
+basso,83.8,"volumi nei limiti,cinesi conservata, FE >55%",fibrillazione atriale,dispnea,alto,no,80,M,346140
+basso,48.5,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,93,F,496597
+basso,71.7,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,medio,no,65,F,11960718
+basso,58.3,"CMD, ipocinesia anteriore + inferolaterale, FE 39%",anomalie RV,no,alto,no,82,M,11961555
+basso,75.8,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,80,M,1669
+basso,52.1,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,56,F,284331
+basso,63.6,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,120,M,192452
+basso,88.4,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,angina,alto,no,63,M,598083
+basso,62.0,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,110,M,11970515
+basso,86.2,"volumi nei limiti,cinesi conservata, FE >55%",PM,no,alto,no,63,F,6079
+basso,68.5,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,98,F,11962664
+basso,76.6,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,dispnea,medio,no,62,M,11963638
+basso,72.1,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,64,F,214871
+alto,57.6,"volumi aumentati,cinesi conservata, FE >55%",BEV,no,medio,no,140,M,586517
+basso,75.2,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,precordialgie,medio,no,59,F,11978866
+basso,68.1,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,basso,no,79,F,362246
+basso,56.1,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,78,M,387140
+basso,74.9,"volumi nei limiti,ipocinesia inferiore, FE >55%",ST sottoslivellato_orizzontale,no,alto,no,90,M,133046
+basso,79.9,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,dispnea,alto,ECO Dobutamina: negativa per ischemia,61,F,49409
+basso,47.8,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,alto,no,73,M,11965398
+basso,45.5,"volumi nei limiti,cinesi conservata, FE >55%",BBsx,no,basso,no,76,M,11769951
+basso,84.6,"volumi nei limiti,cinesi conservata, FE >55%",ST sottoslivellato_ascendente,no,alto,no,63,M,10685947
+basso,74.7,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,alto,no,74,M,461859
+alto,72.7,"volumi nei limiti,acinesia apicale, FE 47%",non significativo,no,alto,no,77,M,22086
+basso,79.1,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,59,M,63485
+basso,73.6,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,medio,no,95,F,101588
+basso,63.0,"volumi nei limiti,cinesi conservata, FE >55%",BESV,no,medio,no,87,M,87093
+basso,71.1,"volumi nei limiti,ipocinesia inferiore, FE 47%",anomalie RV,no,alto,no,81,M,10475588
+basso,47.8,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,basso,no,100,M,292853
+basso,71.2,"volumi nei limiti,cinesi conservata, FE >55%",ST sottoslivellato_orizzontale,no,alto,no,85,M,170288
+basso,86.4,"volumi nei limiti,cinesi conservata, FE >55%",non significativo,no,alto,no,69,M,246513
+medio,82.7,"CMD ipocinetica, FE 40%",PM,no,alto,no,77,M,11903691
+basso,68.4,"volumi nei limiti,cinesi conservata, FE >55%",PM,dispnea,medio,no,65,F,27453
+basso,73.3,"volumi nei limiti,cinesi conservata, FE >55%",anomalie RV,no,medio,no,56,M,86338
